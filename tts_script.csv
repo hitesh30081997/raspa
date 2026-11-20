@@ -1,0 +1,401 @@
+id,text,split,task,intent,output_wav
+nav_goto_01,go to the kitchen,train,task_01_navigation,navigation_goto,audio/task_01_navigation/nav_goto_01.wav
+nav_goto_02,please move to the reception desk,train,task_01_navigation,navigation_goto,audio/task_01_navigation/nav_goto_02.wav
+nav_goto_03,head over to room two hundred and four,train,task_01_navigation,navigation_goto,audio/task_01_navigation/nav_goto_03.wav
+nav_goto_04,can you drive to the main entrance,train,task_01_navigation,navigation_goto,audio/task_01_navigation/nav_goto_04.wav
+nav_goto_05,navigate to the conference room,dev,task_01_navigation,navigation_goto,audio/task_01_navigation/nav_goto_05.wav
+nav_goto_06,i need you in the living room,test,task_01_navigation,navigation_goto,audio/task_01_navigation/nav_goto_06.wav
+nav_goto_07,go forward two meters,train,task_01_navigation,navigation_goto,audio/task_01_navigation/nav_goto_07.wav
+nav_goto_08,move left a little,dev,task_01_navigation,navigation_goto,audio/task_01_navigation/nav_goto_08.wav
+nav_goto_09,turn right and go to the elevator,test,task_01_navigation,navigation_goto,audio/task_01_navigation/nav_goto_09.wav
+nav_goto_10,drive to the nurses station slowly,test,task_01_navigation,navigation_goto,audio/task_01_navigation/nav_goto_10.wav
+nav_goto_11,could you make your way to the storage room,train,task_01_navigation,navigation_goto,audio/task_01_navigation/nav_goto_11.wav
+nav_goto_12,please go to the second floor lobby,train,task_01_navigation,navigation_goto,audio/task_01_navigation/nav_goto_12.wav
+nav_goto_13,move three steps backward,train,task_01_navigation,navigation_goto,audio/task_01_navigation/nav_goto_13.wav
+nav_goto_14,go to table number five,dev,task_01_navigation,navigation_goto,audio/task_01_navigation/nav_goto_14.wav
+nav_goto_15,head to the bedroom right now,train,task_01_navigation,navigation_goto,audio/task_01_navigation/nav_goto_15.wav
+nav_goto_16,travel to the pharmacy counter,train,task_01_navigation,navigation_goto,audio/task_01_navigation/nav_goto_16.wav
+nav_goto_17,robot go to the laundry room,train,task_01_navigation,navigation_goto,audio/task_01_navigation/nav_goto_17.wav
+nav_goto_18,i want you to go to the dining hall,train,task_01_navigation,navigation_goto,audio/task_01_navigation/nav_goto_18.wav
+nav_goto_19,approach the front window,train,task_01_navigation,navigation_goto,audio/task_01_navigation/nav_goto_19.wav
+nav_goto_20,go straight ahead until you reach the end of the corridor,train,task_01_navigation,navigation_goto,audio/task_01_navigation/nav_goto_20.wav
+nav_follow_01,follow me,train,task_01_navigation,navigation_follow,audio/task_01_navigation/nav_follow_01.wav
+nav_follow_02,please follow me to the office,train,task_01_navigation,navigation_follow,audio/task_01_navigation/nav_follow_02.wav
+nav_follow_03,come with me,test,task_01_navigation,navigation_follow,audio/task_01_navigation/nav_follow_03.wav
+nav_follow_04,follow john,train,task_01_navigation,navigation_follow,audio/task_01_navigation/nav_follow_04.wav
+nav_follow_05,keep following me,test,task_01_navigation,navigation_follow,audio/task_01_navigation/nav_follow_05.wav
+nav_follow_06,stay behind me,train,task_01_navigation,navigation_follow,audio/task_01_navigation/nav_follow_06.wav
+nav_follow_07,follow that nurse,train,task_01_navigation,navigation_follow,audio/task_01_navigation/nav_follow_07.wav
+nav_follow_08,walk with me to the garden,train,task_01_navigation,navigation_follow,audio/task_01_navigation/nav_follow_08.wav
+nav_follow_09,track me as i walk,test,task_01_navigation,navigation_follow,audio/task_01_navigation/nav_follow_09.wav
+nav_follow_10,follow the doctor around,train,task_01_navigation,navigation_follow,audio/task_01_navigation/nav_follow_10.wav
+nav_follow_11,come along with me please,train,task_01_navigation,navigation_follow,audio/task_01_navigation/nav_follow_11.wav
+nav_follow_12,follow me slowly,dev,task_01_navigation,navigation_follow,audio/task_01_navigation/nav_follow_12.wav
+nav_follow_13,stick close to me,train,task_01_navigation,navigation_follow,audio/task_01_navigation/nav_follow_13.wav
+nav_follow_14,can you follow mister sharma,train,task_01_navigation,navigation_follow,audio/task_01_navigation/nav_follow_14.wav
+nav_follow_15,follow me one meter behind,dev,task_01_navigation,navigation_follow,audio/task_01_navigation/nav_follow_15.wav
+nav_follow_16,keep up with me,train,task_01_navigation,navigation_follow,audio/task_01_navigation/nav_follow_16.wav
+nav_follow_17,trail behind the waiter,train,task_01_navigation,navigation_follow,audio/task_01_navigation/nav_follow_17.wav
+nav_follow_18,shadow me while i shop,train,task_01_navigation,navigation_follow,audio/task_01_navigation/nav_follow_18.wav
+nav_follow_19,follow my daughter to the car park,train,task_01_navigation,navigation_follow,audio/task_01_navigation/nav_follow_19.wav
+nav_follow_20,accompany me,dev,task_01_navigation,navigation_follow,audio/task_01_navigation/nav_follow_20.wav
+nav_stop_01,stop,train,task_01_navigation,navigation_stop,audio/task_01_navigation/nav_stop_01.wav
+nav_stop_02,stop right there,train,task_01_navigation,navigation_stop,audio/task_01_navigation/nav_stop_02.wav
+nav_stop_03,halt,train,task_01_navigation,navigation_stop,audio/task_01_navigation/nav_stop_03.wav
+nav_stop_04,freeze,train,task_01_navigation,navigation_stop,audio/task_01_navigation/nav_stop_04.wav
+nav_stop_05,stop moving,dev,task_01_navigation,navigation_stop,audio/task_01_navigation/nav_stop_05.wav
+nav_stop_06,wait here,train,task_01_navigation,navigation_stop,audio/task_01_navigation/nav_stop_06.wav
+nav_stop_07,please stop now,train,task_01_navigation,navigation_stop,audio/task_01_navigation/nav_stop_07.wav
+nav_stop_08,hold on stop for a second,train,task_01_navigation,navigation_stop,audio/task_01_navigation/nav_stop_08.wav
+nav_stop_09,don't move,test,task_01_navigation,navigation_stop,audio/task_01_navigation/nav_stop_09.wav
+nav_stop_10,stay where you are,train,task_01_navigation,navigation_stop,audio/task_01_navigation/nav_stop_10.wav
+nav_stop_11,pause your movement,dev,task_01_navigation,navigation_stop,audio/task_01_navigation/nav_stop_11.wav
+nav_stop_12,stop at the door,test,task_01_navigation,navigation_stop,audio/task_01_navigation/nav_stop_12.wav
+nav_stop_13,emergency stop,train,task_01_navigation,navigation_stop,audio/task_01_navigation/nav_stop_13.wav
+nav_stop_14,stop following me,train,task_01_navigation,navigation_stop,audio/task_01_navigation/nav_stop_14.wav
+nav_stop_15,stop in front of the counter,test,task_01_navigation,navigation_stop,audio/task_01_navigation/nav_stop_15.wav
+nav_stop_16,that's enough stop,train,task_01_navigation,navigation_stop,audio/task_01_navigation/nav_stop_16.wav
+nav_stop_17,wait for me here,train,task_01_navigation,navigation_stop,audio/task_01_navigation/nav_stop_17.wav
+nav_stop_18,stand still,dev,task_01_navigation,navigation_stop,audio/task_01_navigation/nav_stop_18.wav
+nav_stop_19,cancel the navigation and stop,train,task_01_navigation,navigation_stop,audio/task_01_navigation/nav_stop_19.wav
+nav_stop_20,stop near the sofa,train,task_01_navigation,navigation_stop,audio/task_01_navigation/nav_stop_20.wav
+nav_return_01,go back to your dock,train,task_01_navigation,navigation_return,audio/task_01_navigation/nav_return_01.wav
+nav_return_02,return to the charging station,train,task_01_navigation,navigation_return,audio/task_01_navigation/nav_return_02.wav
+nav_return_03,go home,train,task_01_navigation,navigation_return,audio/task_01_navigation/nav_return_03.wav
+nav_return_04,go charge yourself,train,task_01_navigation,navigation_return,audio/task_01_navigation/nav_return_04.wav
+nav_return_05,return to base,dev,task_01_navigation,navigation_return,audio/task_01_navigation/nav_return_05.wav
+nav_return_06,head back to the docking station,train,task_01_navigation,navigation_return,audio/task_01_navigation/nav_return_06.wav
+nav_return_07,your battery is low go recharge,train,task_01_navigation,navigation_return,audio/task_01_navigation/nav_return_07.wav
+nav_return_08,go back to where you started,train,task_01_navigation,navigation_return,audio/task_01_navigation/nav_return_08.wav
+nav_return_09,return to your home position,test,task_01_navigation,navigation_return,audio/task_01_navigation/nav_return_09.wav
+nav_return_10,park yourself at the charger,train,task_01_navigation,navigation_return,audio/task_01_navigation/nav_return_10.wav
+nav_return_11,you are done you can go back now,train,task_01_navigation,navigation_return,audio/task_01_navigation/nav_return_11.wav
+nav_return_12,return to your starting point,train,task_01_navigation,navigation_return,audio/task_01_navigation/nav_return_12.wav
+nav_return_13,go back home and rest,test,task_01_navigation,navigation_return,audio/task_01_navigation/nav_return_13.wav
+nav_return_14,dock yourself,train,task_01_navigation,navigation_return,audio/task_01_navigation/nav_return_14.wav
+nav_return_15,return to the home base at six pm,train,task_01_navigation,navigation_return,audio/task_01_navigation/nav_return_15.wav
+nav_return_16,go back to charging,dev,task_01_navigation,navigation_return,audio/task_01_navigation/nav_return_16.wav
+nav_return_17,time to go home robot,train,task_01_navigation,navigation_return,audio/task_01_navigation/nav_return_17.wav
+nav_return_18,return to the depot,train,task_01_navigation,navigation_return,audio/task_01_navigation/nav_return_18.wav
+nav_return_19,head back to base quickly,dev,task_01_navigation,navigation_return,audio/task_01_navigation/nav_return_19.wav
+nav_return_20,go back to your parking spot,test,task_01_navigation,navigation_return,audio/task_01_navigation/nav_return_20.wav
+nav_guide_01,guide me to the restroom,train,task_01_navigation,navigation_guide,audio/task_01_navigation/nav_guide_01.wav
+nav_guide_02,take me to the cardiology department,test,task_01_navigation,navigation_guide,audio/task_01_navigation/nav_guide_02.wav
+nav_guide_03,show me the way to the exit,train,task_01_navigation,navigation_guide,audio/task_01_navigation/nav_guide_03.wav
+nav_guide_04,can you lead me to gate twelve,train,task_01_navigation,navigation_guide,audio/task_01_navigation/nav_guide_04.wav
+nav_guide_05,escort this visitor to the meeting room,test,task_01_navigation,navigation_guide,audio/task_01_navigation/nav_guide_05.wav
+nav_guide_06,please show mister lee to his room,train,task_01_navigation,navigation_guide,audio/task_01_navigation/nav_guide_06.wav
+nav_guide_07,lead the way to the cafeteria,train,task_01_navigation,navigation_guide,audio/task_01_navigation/nav_guide_07.wav
+nav_guide_08,i'm lost can you guide me to the parking lot,test,task_01_navigation,navigation_guide,audio/task_01_navigation/nav_guide_08.wav
+nav_guide_09,bring me to the x ray room,train,task_01_navigation,navigation_guide,audio/task_01_navigation/nav_guide_09.wav
+nav_guide_10,take the guests to the ballroom,train,task_01_navigation,navigation_guide,audio/task_01_navigation/nav_guide_10.wav
+nav_guide_11,walk me to the lift,dev,task_01_navigation,navigation_guide,audio/task_01_navigation/nav_guide_11.wav
+nav_guide_12,accompany the patient to the waiting area,train,task_01_navigation,navigation_guide,audio/task_01_navigation/nav_guide_12.wav
+nav_guide_13,how do i get to the library can you take me there,train,task_01_navigation,navigation_guide,audio/task_01_navigation/nav_guide_13.wav
+nav_guide_14,guide us to table seven,train,task_01_navigation,navigation_guide,audio/task_01_navigation/nav_guide_14.wav
+nav_guide_15,lead the new employee to the hr office,dev,task_01_navigation,navigation_guide,audio/task_01_navigation/nav_guide_15.wav
+nav_guide_16,escort me to the taxi stand,dev,task_01_navigation,navigation_guide,audio/task_01_navigation/nav_guide_16.wav
+nav_guide_17,show the customer where the fitting rooms are,train,task_01_navigation,navigation_guide,audio/task_01_navigation/nav_guide_17.wav
+nav_guide_18,please take me to ward three,train,task_01_navigation,navigation_guide,audio/task_01_navigation/nav_guide_18.wav
+nav_guide_19,navigate me to the information desk,train,task_01_navigation,navigation_guide,audio/task_01_navigation/nav_guide_19.wav
+nav_guide_20,guide my grandmother to the prayer room,train,task_01_navigation,navigation_guide,audio/task_01_navigation/nav_guide_20.wav
+man_pick_01,pick up the cup,train,task_02_manipulation,manipulation_pick,audio/task_02_manipulation/man_pick_01.wav
+man_pick_02,grab the red box,test,task_02_manipulation,manipulation_pick,audio/task_02_manipulation/man_pick_02.wav
+man_pick_03,pick up the bottle from the table,train,task_02_manipulation,manipulation_pick,audio/task_02_manipulation/man_pick_03.wav
+man_pick_04,lift the bag off the floor,train,task_02_manipulation,manipulation_pick,audio/task_02_manipulation/man_pick_04.wav
+man_pick_05,can you grab that remote,train,task_02_manipulation,manipulation_pick,audio/task_02_manipulation/man_pick_05.wav
+man_pick_06,take the book from the shelf,train,task_02_manipulation,manipulation_pick,audio/task_02_manipulation/man_pick_06.wav
+man_pick_07,pick up two apples,test,task_02_manipulation,manipulation_pick,audio/task_02_manipulation/man_pick_07.wav
+man_pick_08,grasp the mug carefully,train,task_02_manipulation,manipulation_pick,audio/task_02_manipulation/man_pick_08.wav
+man_pick_09,hold the tray,train,task_02_manipulation,manipulation_pick,audio/task_02_manipulation/man_pick_09.wav
+man_pick_10,pick the blue pen up,dev,task_02_manipulation,manipulation_pick,audio/task_02_manipulation/man_pick_10.wav
+man_pick_11,get hold of the plate,train,task_02_manipulation,manipulation_pick,audio/task_02_manipulation/man_pick_11.wav
+man_pick_12,pick up the spoon that fell,dev,task_02_manipulation,manipulation_pick,audio/task_02_manipulation/man_pick_12.wav
+man_pick_13,pick up the keys,train,task_02_manipulation,manipulation_pick,audio/task_02_manipulation/man_pick_13.wav
+man_pick_14,grab one towel from the rack,train,task_02_manipulation,manipulation_pick,audio/task_02_manipulation/man_pick_14.wav
+man_pick_15,lift that chair,train,task_02_manipulation,manipulation_pick,audio/task_02_manipulation/man_pick_15.wav
+man_pick_16,seize the green cube,test,task_02_manipulation,manipulation_pick,audio/task_02_manipulation/man_pick_16.wav
+man_pick_17,pick up the glass next to the sink,train,task_02_manipulation,manipulation_pick,audio/task_02_manipulation/man_pick_17.wav
+man_pick_18,grab the phone and hold it,dev,task_02_manipulation,manipulation_pick,audio/task_02_manipulation/man_pick_18.wav
+man_pick_19,pick up the medicine box,train,task_02_manipulation,manipulation_pick,audio/task_02_manipulation/man_pick_19.wav
+man_pick_20,can you lift the basket,train,task_02_manipulation,manipulation_pick,audio/task_02_manipulation/man_pick_20.wav
+man_place_01,put the cup on the table,train,task_02_manipulation,manipulation_place,audio/task_02_manipulation/man_place_01.wav
+man_place_02,place the book on the shelf,dev,task_02_manipulation,manipulation_place,audio/task_02_manipulation/man_place_02.wav
+man_place_03,set the plate down on the counter,test,task_02_manipulation,manipulation_place,audio/task_02_manipulation/man_place_03.wav
+man_place_04,drop the box in the corner,train,task_02_manipulation,manipulation_place,audio/task_02_manipulation/man_place_04.wav
+man_place_05,put it down,train,task_02_manipulation,manipulation_place,audio/task_02_manipulation/man_place_05.wav
+man_place_06,leave the bag near the door,train,task_02_manipulation,manipulation_place,audio/task_02_manipulation/man_place_06.wav
+man_place_07,put the bottle in the fridge,train,task_02_manipulation,manipulation_place,audio/task_02_manipulation/man_place_07.wav
+man_place_08,place three glasses on the tray,train,task_02_manipulation,manipulation_place,audio/task_02_manipulation/man_place_08.wav
+man_place_09,put the yellow block on top of the red block,train,task_02_manipulation,manipulation_place,audio/task_02_manipulation/man_place_09.wav
+man_place_10,lay the towel on the bed,train,task_02_manipulation,manipulation_place,audio/task_02_manipulation/man_place_10.wav
+man_place_11,put the keys in the drawer,train,task_02_manipulation,manipulation_place,audio/task_02_manipulation/man_place_11.wav
+man_place_12,release it gently,train,task_02_manipulation,manipulation_place,audio/task_02_manipulation/man_place_12.wav
+man_place_13,set this down on the desk,train,task_02_manipulation,manipulation_place,audio/task_02_manipulation/man_place_13.wav
+man_place_14,store the groceries in the pantry,test,task_02_manipulation,manipulation_place,audio/task_02_manipulation/man_place_14.wav
+man_place_15,put the flowers in the vase,dev,task_02_manipulation,manipulation_place,audio/task_02_manipulation/man_place_15.wav
+man_place_16,place the remote beside the tv,train,task_02_manipulation,manipulation_place,audio/task_02_manipulation/man_place_16.wav
+man_place_17,put the dishes in the sink,train,task_02_manipulation,manipulation_place,audio/task_02_manipulation/man_place_17.wav
+man_place_18,place the package at the front door,test,task_02_manipulation,manipulation_place,audio/task_02_manipulation/man_place_18.wav
+man_place_19,drop it into the basket,dev,task_02_manipulation,manipulation_place,audio/task_02_manipulation/man_place_19.wav
+man_place_20,put the medicine on my nightstand,train,task_02_manipulation,manipulation_place,audio/task_02_manipulation/man_place_20.wav
+man_fetch_01,bring me a glass of water,dev,task_02_manipulation,manipulation_fetch,audio/task_02_manipulation/man_fetch_01.wav
+man_fetch_02,get me my glasses,dev,task_02_manipulation,manipulation_fetch,audio/task_02_manipulation/man_fetch_02.wav
+man_fetch_03,fetch the newspaper,train,task_02_manipulation,manipulation_fetch,audio/task_02_manipulation/man_fetch_03.wav
+man_fetch_04,can you bring me the remote,train,task_02_manipulation,manipulation_fetch,audio/task_02_manipulation/man_fetch_04.wav
+man_fetch_05,i need my phone please bring it,train,task_02_manipulation,manipulation_fetch,audio/task_02_manipulation/man_fetch_05.wav
+man_fetch_06,bring two towels from the bathroom,dev,task_02_manipulation,manipulation_fetch,audio/task_02_manipulation/man_fetch_06.wav
+man_fetch_07,get me a blanket,train,task_02_manipulation,manipulation_fetch,audio/task_02_manipulation/man_fetch_07.wav
+man_fetch_08,go get my slippers from the bedroom,train,task_02_manipulation,manipulation_fetch,audio/task_02_manipulation/man_fetch_08.wav
+man_fetch_09,bring me something to drink,train,task_02_manipulation,manipulation_fetch,audio/task_02_manipulation/man_fetch_09.wav
+man_fetch_10,fetch the charger from the office,train,task_02_manipulation,manipulation_fetch,audio/task_02_manipulation/man_fetch_10.wav
+man_fetch_11,could you get me the black jacket,train,task_02_manipulation,manipulation_fetch,audio/task_02_manipulation/man_fetch_11.wav
+man_fetch_12,bring the menu over here,test,task_02_manipulation,manipulation_fetch,audio/task_02_manipulation/man_fetch_12.wav
+man_fetch_13,i'd like a cup of tea,train,task_02_manipulation,manipulation_fetch,audio/task_02_manipulation/man_fetch_13.wav
+man_fetch_14,get me some tissues,train,task_02_manipulation,manipulation_fetch,audio/task_02_manipulation/man_fetch_14.wav
+man_fetch_15,bring my wallet from the kitchen,train,task_02_manipulation,manipulation_fetch,audio/task_02_manipulation/man_fetch_15.wav
+man_fetch_16,fetch me the first aid kit,test,task_02_manipulation,manipulation_fetch,audio/task_02_manipulation/man_fetch_16.wav
+man_fetch_17,bring the wheelchair here,test,task_02_manipulation,manipulation_fetch,audio/task_02_manipulation/man_fetch_17.wav
+man_fetch_18,go and grab my laptop,train,task_02_manipulation,manipulation_fetch,audio/task_02_manipulation/man_fetch_18.wav
+man_fetch_19,please bring me the salt,train,task_02_manipulation,manipulation_fetch,audio/task_02_manipulation/man_fetch_19.wav
+man_fetch_20,get the mail from the mailbox,train,task_02_manipulation,manipulation_fetch,audio/task_02_manipulation/man_fetch_20.wav
+man_handover_01,give this to sarah,train,task_02_manipulation,manipulation_handover,audio/task_02_manipulation/man_handover_01.wav
+man_handover_02,hand the file to the manager,train,task_02_manipulation,manipulation_handover,audio/task_02_manipulation/man_handover_02.wav
+man_handover_03,pass the salt to my wife,train,task_02_manipulation,manipulation_handover,audio/task_02_manipulation/man_handover_03.wav
+man_handover_04,deliver the package to room three hundred and one,train,task_02_manipulation,manipulation_handover,audio/task_02_manipulation/man_handover_04.wav
+man_handover_05,give the keys to david,test,task_02_manipulation,manipulation_handover,audio/task_02_manipulation/man_handover_05.wav
+man_handover_06,take this letter to professor kumar,test,task_02_manipulation,manipulation_handover,audio/task_02_manipulation/man_handover_06.wav
+man_handover_07,hand over the tray to the waiter,train,task_02_manipulation,manipulation_handover,audio/task_02_manipulation/man_handover_07.wav
+man_handover_08,deliver the medicine to the patient in bed four,train,task_02_manipulation,manipulation_handover,audio/task_02_manipulation/man_handover_08.wav
+man_handover_09,give grandpa his newspaper,dev,task_02_manipulation,manipulation_handover,audio/task_02_manipulation/man_handover_09.wav
+man_handover_10,pass this to the person next to me,train,task_02_manipulation,manipulation_handover,audio/task_02_manipulation/man_handover_10.wav
+man_handover_11,bring this document to anna in the finance office,dev,task_02_manipulation,manipulation_handover,audio/task_02_manipulation/man_handover_11.wav
+man_handover_12,hand me the scissors,train,task_02_manipulation,manipulation_handover,audio/task_02_manipulation/man_handover_12.wav
+man_handover_13,give the toy to the child,train,task_02_manipulation,manipulation_handover,audio/task_02_manipulation/man_handover_13.wav
+man_handover_14,deliver two coffees to table six,dev,task_02_manipulation,manipulation_handover,audio/task_02_manipulation/man_handover_14.wav
+man_handover_15,take the food tray to missus gupta,train,task_02_manipulation,manipulation_handover,audio/task_02_manipulation/man_handover_15.wav
+man_handover_16,hand this form to the receptionist,train,task_02_manipulation,manipulation_handover,audio/task_02_manipulation/man_handover_16.wav
+man_handover_17,give the water bottle to the visitor,test,task_02_manipulation,manipulation_handover,audio/task_02_manipulation/man_handover_17.wav
+man_handover_18,pass the tools to the technician,train,task_02_manipulation,manipulation_handover,audio/task_02_manipulation/man_handover_18.wav
+man_handover_19,please deliver this parcel to the security desk,train,task_02_manipulation,manipulation_handover,audio/task_02_manipulation/man_handover_19.wav
+man_handover_20,offer the snacks to the guests,train,task_02_manipulation,manipulation_handover,audio/task_02_manipulation/man_handover_20.wav
+man_open_01,open the door,train,task_02_manipulation,manipulation_open,audio/task_02_manipulation/man_open_01.wav
+man_open_02,open the fridge,test,task_02_manipulation,manipulation_open,audio/task_02_manipulation/man_open_02.wav
+man_open_03,can you open the drawer,train,task_02_manipulation,manipulation_open,audio/task_02_manipulation/man_open_03.wav
+man_open_04,open the window in the bedroom,train,task_02_manipulation,manipulation_open,audio/task_02_manipulation/man_open_04.wav
+man_open_05,please open the cabinet,train,task_02_manipulation,manipulation_open,audio/task_02_manipulation/man_open_05.wav
+man_open_06,open this bottle for me,train,task_02_manipulation,manipulation_open,audio/task_02_manipulation/man_open_06.wav
+man_open_07,open the curtains,train,task_02_manipulation,manipulation_open,audio/task_02_manipulation/man_open_07.wav
+man_open_08,unlock and open the front door,dev,task_02_manipulation,manipulation_open,audio/task_02_manipulation/man_open_08.wav
+man_open_09,open the lid of the jar,train,task_02_manipulation,manipulation_open,audio/task_02_manipulation/man_open_09.wav
+man_open_10,open the oven door,train,task_02_manipulation,manipulation_open,audio/task_02_manipulation/man_open_10.wav
+man_open_11,pull open the top drawer,dev,task_02_manipulation,manipulation_open,audio/task_02_manipulation/man_open_11.wav
+man_open_12,open the gate,test,task_02_manipulation,manipulation_open,audio/task_02_manipulation/man_open_12.wav
+man_open_13,slide open the balcony door,dev,task_02_manipulation,manipulation_open,audio/task_02_manipulation/man_open_13.wav
+man_open_14,open the box on the table,test,task_02_manipulation,manipulation_open,audio/task_02_manipulation/man_open_14.wav
+man_open_15,open the microwave,train,task_02_manipulation,manipulation_open,audio/task_02_manipulation/man_open_15.wav
+man_open_16,could you open the wardrobe,train,task_02_manipulation,manipulation_open,audio/task_02_manipulation/man_open_16.wav
+man_open_17,open up the package,train,task_02_manipulation,manipulation_open,audio/task_02_manipulation/man_open_17.wav
+man_open_18,open the dishwasher,train,task_02_manipulation,manipulation_open,audio/task_02_manipulation/man_open_18.wav
+man_open_19,open the door for the delivery man,train,task_02_manipulation,manipulation_open,audio/task_02_manipulation/man_open_19.wav
+man_open_20,open the blinds in the living room,train,task_02_manipulation,manipulation_open,audio/task_02_manipulation/man_open_20.wav
+hk_vacuum_01,vacuum the living room,train,task_03_housekeeping,housekeeping_vacuum,audio/task_03_housekeeping/hk_vacuum_01.wav
+hk_vacuum_02,start vacuuming,train,task_03_housekeeping,housekeeping_vacuum,audio/task_03_housekeeping/hk_vacuum_02.wav
+hk_vacuum_03,vacuum the carpet in the bedroom,train,task_03_housekeeping,housekeeping_vacuum,audio/task_03_housekeeping/hk_vacuum_03.wav
+hk_vacuum_04,clean the floor with the vacuum,train,task_03_housekeeping,housekeeping_vacuum,audio/task_03_housekeeping/hk_vacuum_04.wav
+hk_vacuum_05,hoover the hallway,dev,task_03_housekeeping,housekeeping_vacuum,audio/task_03_housekeeping/hk_vacuum_05.wav
+hk_vacuum_06,vacuum under the sofa,train,task_03_housekeeping,housekeeping_vacuum,audio/task_03_housekeeping/hk_vacuum_06.wav
+hk_vacuum_07,can you vacuum the office at nine am,train,task_03_housekeeping,housekeeping_vacuum,audio/task_03_housekeeping/hk_vacuum_07.wav
+hk_vacuum_08,vacuum the whole house,train,task_03_housekeeping,housekeeping_vacuum,audio/task_03_housekeeping/hk_vacuum_08.wav
+hk_vacuum_09,please vacuum the rug,train,task_03_housekeeping,housekeeping_vacuum,audio/task_03_housekeeping/hk_vacuum_09.wav
+hk_vacuum_10,suck up the dust in the corner,test,task_03_housekeeping,housekeeping_vacuum,audio/task_03_housekeeping/hk_vacuum_10.wav
+hk_vacuum_11,do a quick vacuum of the kitchen,train,task_03_housekeeping,housekeeping_vacuum,audio/task_03_housekeeping/hk_vacuum_11.wav
+hk_vacuum_12,vacuum the stairs,train,task_03_housekeeping,housekeeping_vacuum,audio/task_03_housekeeping/hk_vacuum_12.wav
+hk_vacuum_13,run the vacuum in the lobby tomorrow,train,task_03_housekeeping,housekeeping_vacuum,audio/task_03_housekeeping/hk_vacuum_13.wav
+hk_vacuum_14,vacuum the crumbs under the dining table,test,task_03_housekeeping,housekeeping_vacuum,audio/task_03_housekeeping/hk_vacuum_14.wav
+hk_vacuum_15,vacuum the guest room tonight,train,task_03_housekeeping,housekeeping_vacuum,audio/task_03_housekeeping/hk_vacuum_15.wav
+hk_vacuum_16,vacuum the car mats,train,task_03_housekeeping,housekeeping_vacuum,audio/task_03_housekeeping/hk_vacuum_16.wav
+hk_vacuum_17,clean up the dust on the carpet,test,task_03_housekeeping,housekeeping_vacuum,audio/task_03_housekeeping/hk_vacuum_17.wav
+hk_vacuum_18,vacuum around the bed,dev,task_03_housekeeping,housekeeping_vacuum,audio/task_03_housekeeping/hk_vacuum_18.wav
+hk_vacuum_19,vacuum room two hundred and five,dev,task_03_housekeeping,housekeeping_vacuum,audio/task_03_housekeeping/hk_vacuum_19.wav
+hk_vacuum_20,vacuum the lounge every morning,train,task_03_housekeeping,housekeeping_vacuum,audio/task_03_housekeeping/hk_vacuum_20.wav
+hk_mop_01,mop the kitchen floor,dev,task_03_housekeeping,housekeeping_mop,audio/task_03_housekeeping/hk_mop_01.wav
+hk_mop_02,mop the floor,train,task_03_housekeeping,housekeeping_mop,audio/task_03_housekeeping/hk_mop_02.wav
+hk_mop_03,please mop the bathroom,train,task_03_housekeeping,housekeeping_mop,audio/task_03_housekeeping/hk_mop_03.wav
+hk_mop_04,wet clean the hallway,test,task_03_housekeeping,housekeeping_mop,audio/task_03_housekeeping/hk_mop_04.wav
+hk_mop_05,mop up the spill,train,task_03_housekeeping,housekeeping_mop,audio/task_03_housekeeping/hk_mop_05.wav
+hk_mop_06,there's water on the floor mop it up,train,task_03_housekeeping,housekeeping_mop,audio/task_03_housekeeping/hk_mop_06.wav
+hk_mop_07,mop the lobby after lunch,train,task_03_housekeeping,housekeeping_mop,audio/task_03_housekeeping/hk_mop_07.wav
+hk_mop_08,scrub the tiles in the bathroom,train,task_03_housekeeping,housekeeping_mop,audio/task_03_housekeeping/hk_mop_08.wav
+hk_mop_09,mop the corridor,train,task_03_housekeeping,housekeeping_mop,audio/task_03_housekeeping/hk_mop_09.wav
+hk_mop_10,clean the spilled juice on the floor,train,task_03_housekeeping,housekeeping_mop,audio/task_03_housekeeping/hk_mop_10.wav
+hk_mop_11,mop the dining area,train,task_03_housekeeping,housekeeping_mop,audio/task_03_housekeeping/hk_mop_11.wav
+hk_mop_12,give the entrance a mop,test,task_03_housekeeping,housekeeping_mop,audio/task_03_housekeeping/hk_mop_12.wav
+hk_mop_13,mop the marble floor,train,task_03_housekeeping,housekeeping_mop,audio/task_03_housekeeping/hk_mop_13.wav
+hk_mop_14,mop around the table,dev,task_03_housekeeping,housekeeping_mop,audio/task_03_housekeeping/hk_mop_14.wav
+hk_mop_15,mop the ward at six am,dev,task_03_housekeeping,housekeeping_mop,audio/task_03_housekeeping/hk_mop_15.wav
+hk_mop_16,wash the floor in the restaurant,test,task_03_housekeeping,housekeeping_mop,audio/task_03_housekeeping/hk_mop_16.wav
+hk_mop_17,mop the balcony,train,task_03_housekeeping,housekeeping_mop,audio/task_03_housekeeping/hk_mop_17.wav
+hk_mop_18,do the mopping today,train,task_03_housekeeping,housekeeping_mop,audio/task_03_housekeeping/hk_mop_18.wav
+hk_mop_19,mop the patient room,train,task_03_housekeeping,housekeeping_mop,audio/task_03_housekeeping/hk_mop_19.wav
+hk_mop_20,mop the muddy footprints in the hall,train,task_03_housekeeping,housekeeping_mop,audio/task_03_housekeeping/hk_mop_20.wav
+hk_wipe_01,wipe the table,train,task_03_housekeeping,housekeeping_wipe,audio/task_03_housekeeping/hk_wipe_01.wav
+hk_wipe_02,clean the kitchen counter,train,task_03_housekeeping,housekeeping_wipe,audio/task_03_housekeeping/hk_wipe_02.wav
+hk_wipe_03,wipe down the windows,test,task_03_housekeeping,housekeeping_wipe,audio/task_03_housekeeping/hk_wipe_03.wav
+hk_wipe_04,dust the shelves,train,task_03_housekeeping,housekeeping_wipe,audio/task_03_housekeeping/hk_wipe_04.wav
+hk_wipe_05,wipe the mirror in the bathroom,dev,task_03_housekeeping,housekeeping_wipe,audio/task_03_housekeeping/hk_wipe_05.wav
+hk_wipe_06,clean the whiteboard,train,task_03_housekeeping,housekeeping_wipe,audio/task_03_housekeeping/hk_wipe_06.wav
+hk_wipe_07,wipe the dining table after dinner,train,task_03_housekeeping,housekeeping_wipe,audio/task_03_housekeeping/hk_wipe_07.wav
+hk_wipe_08,polish the glass door,train,task_03_housekeeping,housekeeping_wipe,audio/task_03_housekeeping/hk_wipe_08.wav
+hk_wipe_09,wipe off the coffee stain on the desk,train,task_03_housekeeping,housekeeping_wipe,audio/task_03_housekeeping/hk_wipe_09.wav
+hk_wipe_10,dust the tv stand,train,task_03_housekeeping,housekeeping_wipe,audio/task_03_housekeeping/hk_wipe_10.wav
+hk_wipe_11,sanitize the door handles,train,task_03_housekeeping,housekeeping_wipe,audio/task_03_housekeeping/hk_wipe_11.wav
+hk_wipe_12,wipe the bed rails in ward two,test,task_03_housekeeping,housekeeping_wipe,audio/task_03_housekeeping/hk_wipe_12.wav
+hk_wipe_13,clean the stove top,train,task_03_housekeeping,housekeeping_wipe,audio/task_03_housekeeping/hk_wipe_13.wav
+hk_wipe_14,wipe the crumbs off the table,train,task_03_housekeeping,housekeeping_wipe,audio/task_03_housekeeping/hk_wipe_14.wav
+hk_wipe_15,disinfect the countertops,train,task_03_housekeeping,housekeeping_wipe,audio/task_03_housekeeping/hk_wipe_15.wav
+hk_wipe_16,wipe the chairs in the waiting room,test,task_03_housekeeping,housekeeping_wipe,audio/task_03_housekeeping/hk_wipe_16.wav
+hk_wipe_17,clean the sink,train,task_03_housekeeping,housekeeping_wipe,audio/task_03_housekeeping/hk_wipe_17.wav
+hk_wipe_18,wipe the keyboard,dev,task_03_housekeeping,housekeeping_wipe,audio/task_03_housekeeping/hk_wipe_18.wav
+hk_wipe_19,dust off the bookshelf,train,task_03_housekeeping,housekeeping_wipe,audio/task_03_housekeeping/hk_wipe_19.wav
+hk_wipe_20,wipe all the tables in the cafe,dev,task_03_housekeeping,housekeeping_wipe,audio/task_03_housekeeping/hk_wipe_20.wav
+hk_tidy_01,tidy up the living room,train,task_03_housekeeping,housekeeping_tidy,audio/task_03_housekeeping/hk_tidy_01.wav
+hk_tidy_02,clean up this mess,train,task_03_housekeeping,housekeeping_tidy,audio/task_03_housekeeping/hk_tidy_02.wav
+hk_tidy_03,put the toys away,train,task_03_housekeeping,housekeeping_tidy,audio/task_03_housekeeping/hk_tidy_03.wav
+hk_tidy_04,organize the bookshelf,test,task_03_housekeeping,housekeeping_tidy,audio/task_03_housekeeping/hk_tidy_04.wav
+hk_tidy_05,make the bed,test,task_03_housekeeping,housekeeping_tidy,audio/task_03_housekeeping/hk_tidy_05.wav
+hk_tidy_06,tidy the desk,train,task_03_housekeeping,housekeeping_tidy,audio/task_03_housekeeping/hk_tidy_06.wav
+hk_tidy_07,arrange the shoes in the shoe rack,train,task_03_housekeeping,housekeeping_tidy,audio/task_03_housekeeping/hk_tidy_07.wav
+hk_tidy_08,declutter the kitchen counter,train,task_03_housekeeping,housekeeping_tidy,audio/task_03_housekeeping/hk_tidy_08.wav
+hk_tidy_09,fold the clothes,train,task_03_housekeeping,housekeeping_tidy,audio/task_03_housekeeping/hk_tidy_09.wav
+hk_tidy_10,straighten up the room,train,task_03_housekeeping,housekeeping_tidy,audio/task_03_housekeeping/hk_tidy_10.wav
+hk_tidy_11,put everything back in its place,train,task_03_housekeeping,housekeeping_tidy,audio/task_03_housekeeping/hk_tidy_11.wav
+hk_tidy_12,sort the laundry,dev,task_03_housekeeping,housekeeping_tidy,audio/task_03_housekeeping/hk_tidy_12.wav
+hk_tidy_13,clear the table,dev,task_03_housekeeping,housekeeping_tidy,audio/task_03_housekeeping/hk_tidy_13.wav
+hk_tidy_14,arrange the chairs in the meeting room,train,task_03_housekeeping,housekeeping_tidy,audio/task_03_housekeeping/hk_tidy_14.wav
+hk_tidy_15,tidy up before the guests arrive,train,task_03_housekeeping,housekeeping_tidy,audio/task_03_housekeeping/hk_tidy_15.wav
+hk_tidy_16,stack the plates neatly,train,task_03_housekeeping,housekeeping_tidy,audio/task_03_housekeeping/hk_tidy_16.wav
+hk_tidy_17,organize the books on the shelf,train,task_03_housekeeping,housekeeping_tidy,audio/task_03_housekeeping/hk_tidy_17.wav
+hk_tidy_18,clean up the playroom,test,task_03_housekeeping,housekeeping_tidy,audio/task_03_housekeeping/hk_tidy_18.wav
+hk_tidy_19,put the cushions back on the sofa,dev,task_03_housekeeping,housekeeping_tidy,audio/task_03_housekeeping/hk_tidy_19.wav
+hk_tidy_20,tidy the reception area by eight am,train,task_03_housekeeping,housekeeping_tidy,audio/task_03_housekeeping/hk_tidy_20.wav
+hk_dispose_01,take out the trash,train,task_03_housekeeping,housekeeping_dispose,audio/task_03_housekeeping/hk_dispose_01.wav
+hk_dispose_02,empty the trash can,train,task_03_housekeeping,housekeeping_dispose,audio/task_03_housekeeping/hk_dispose_02.wav
+hk_dispose_03,throw this away,test,task_03_housekeeping,housekeeping_dispose,audio/task_03_housekeeping/hk_dispose_03.wav
+hk_dispose_04,empty the dustbin in the kitchen,train,task_03_housekeeping,housekeeping_dispose,audio/task_03_housekeeping/hk_dispose_04.wav
+hk_dispose_05,dispose of the garbage,train,task_03_housekeeping,housekeeping_dispose,audio/task_03_housekeeping/hk_dispose_05.wav
+hk_dispose_06,throw the wrapper in the bin,dev,task_03_housekeeping,housekeeping_dispose,audio/task_03_housekeeping/hk_dispose_06.wav
+hk_dispose_07,take the recycling out,train,task_03_housekeeping,housekeeping_dispose,audio/task_03_housekeeping/hk_dispose_07.wav
+hk_dispose_08,empty the waste basket in the office,train,task_03_housekeeping,housekeeping_dispose,audio/task_03_housekeeping/hk_dispose_08.wav
+hk_dispose_09,put the empty bottles in the recycling,train,task_03_housekeeping,housekeeping_dispose,audio/task_03_housekeeping/hk_dispose_09.wav
+hk_dispose_10,get rid of these old newspapers,dev,task_03_housekeeping,housekeeping_dispose,audio/task_03_housekeeping/hk_dispose_10.wav
+hk_dispose_11,empty all the bins,test,task_03_housekeeping,housekeeping_dispose,audio/task_03_housekeeping/hk_dispose_11.wav
+hk_dispose_12,throw out the leftovers,train,task_03_housekeeping,housekeeping_dispose,audio/task_03_housekeeping/hk_dispose_12.wav
+hk_dispose_13,take the garbage bags to the dumpster,train,task_03_housekeeping,housekeeping_dispose,audio/task_03_housekeeping/hk_dispose_13.wav
+hk_dispose_14,dispose of the used gloves safely,test,task_03_housekeeping,housekeeping_dispose,audio/task_03_housekeeping/hk_dispose_14.wav
+hk_dispose_15,empty the trash every evening,dev,task_03_housekeeping,housekeeping_dispose,audio/task_03_housekeeping/hk_dispose_15.wav
+hk_dispose_16,throw away the paper cups,train,task_03_housekeeping,housekeeping_dispose,audio/task_03_housekeeping/hk_dispose_16.wav
+hk_dispose_17,clear the rubbish from the hallway,train,task_03_housekeeping,housekeeping_dispose,audio/task_03_housekeeping/hk_dispose_17.wav
+hk_dispose_18,take out the medical waste,train,task_03_housekeeping,housekeeping_dispose,audio/task_03_housekeeping/hk_dispose_18.wav
+hk_dispose_19,empty the bin in room one hundred and two,train,task_03_housekeeping,housekeeping_dispose,audio/task_03_housekeeping/hk_dispose_19.wav
+hk_dispose_20,discard the broken glass,train,task_03_housekeeping,housekeeping_dispose,audio/task_03_housekeeping/hk_dispose_20.wav
+hc_remind_01,remind me to take my pills at eight am,test,task_04_healthcare,healthcare_remind,audio/task_04_healthcare/hc_remind_01.wav
+hc_remind_02,remind me to take aspirin after lunch,train,task_04_healthcare,healthcare_remind,audio/task_04_healthcare/hc_remind_02.wav
+hc_remind_03,set a medicine reminder for nine pm,train,task_04_healthcare,healthcare_remind,audio/task_04_healthcare/hc_remind_03.wav
+hc_remind_04,remind grandma to take her blood pressure tablets,train,task_04_healthcare,healthcare_remind,audio/task_04_healthcare/hc_remind_04.wav
+hc_remind_05,don't let me forget my insulin before dinner,dev,task_04_healthcare,healthcare_remind,audio/task_04_healthcare/hc_remind_05.wav
+hc_remind_06,remind me about my vitamins every morning,train,task_04_healthcare,healthcare_remind,audio/task_04_healthcare/hc_remind_06.wav
+hc_remind_07,tell me when it's time for my medicine,train,task_04_healthcare,healthcare_remind,audio/task_04_healthcare/hc_remind_07.wav
+hc_remind_08,remind me to drink water every two hours,train,task_04_healthcare,healthcare_remind,audio/task_04_healthcare/hc_remind_08.wav
+hc_remind_09,remind mister rao to take his antibiotics at six pm,dev,task_04_healthcare,healthcare_remind,audio/task_04_healthcare/hc_remind_09.wav
+hc_remind_10,alert me when my next dose is due,test,task_04_healthcare,healthcare_remind,audio/task_04_healthcare/hc_remind_10.wav
+hc_remind_11,remind me to use my inhaler tonight,train,task_04_healthcare,healthcare_remind,audio/task_04_healthcare/hc_remind_11.wav
+hc_remind_12,remind me to take two tablets of paracetamol,train,task_04_healthcare,healthcare_remind,audio/task_04_healthcare/hc_remind_12.wav
+hc_remind_13,remind the patient in room ten about the eye drops,train,task_04_healthcare,healthcare_remind,audio/task_04_healthcare/hc_remind_13.wav
+hc_remind_14,remind me to take my heart medication tomorrow at seven,train,task_04_healthcare,healthcare_remind,audio/task_04_healthcare/hc_remind_14.wav
+hc_remind_15,set a reminder for my cough syrup,train,task_04_healthcare,healthcare_remind,audio/task_04_healthcare/hc_remind_15.wav
+hc_remind_16,give me a reminder for my medication at noon,train,task_04_healthcare,healthcare_remind,audio/task_04_healthcare/hc_remind_16.wav
+hc_remind_17,remind me to check my sugar before breakfast,test,task_04_healthcare,healthcare_remind,audio/task_04_healthcare/hc_remind_17.wav
+hc_remind_18,make sure i take my iron supplement daily,train,task_04_healthcare,healthcare_remind,audio/task_04_healthcare/hc_remind_18.wav
+hc_remind_19,remind my dad to apply the ointment,dev,task_04_healthcare,healthcare_remind,audio/task_04_healthcare/hc_remind_19.wav
+hc_remind_20,notify me at ten pm to take my sleeping pill,train,task_04_healthcare,healthcare_remind,audio/task_04_healthcare/hc_remind_20.wav
+hc_alert_01,call for help,dev,task_04_healthcare,healthcare_alert,audio/task_04_healthcare/hc_alert_01.wav
+hc_alert_02,i've fallen please call someone,train,task_04_healthcare,healthcare_alert,audio/task_04_healthcare/hc_alert_02.wav
+hc_alert_03,call the nurse,train,task_04_healthcare,healthcare_alert,audio/task_04_healthcare/hc_alert_03.wav
+hc_alert_04,this is an emergency,train,task_04_healthcare,healthcare_alert,audio/task_04_healthcare/hc_alert_04.wav
+hc_alert_05,call an ambulance,train,task_04_healthcare,healthcare_alert,audio/task_04_healthcare/hc_alert_05.wav
+hc_alert_06,alert the doctor immediately,train,task_04_healthcare,healthcare_alert,audio/task_04_healthcare/hc_alert_06.wav
+hc_alert_07,i feel dizzy get help,test,task_04_healthcare,healthcare_alert,audio/task_04_healthcare/hc_alert_07.wav
+hc_alert_08,call my son,train,task_04_healthcare,healthcare_alert,audio/task_04_healthcare/hc_alert_08.wav
+hc_alert_09,notify the caregiver that i need help,train,task_04_healthcare,healthcare_alert,audio/task_04_healthcare/hc_alert_09.wav
+hc_alert_10,i can't breathe call emergency services,dev,task_04_healthcare,healthcare_alert,audio/task_04_healthcare/hc_alert_10.wav
+hc_alert_11,send an alert to the nurses station,train,task_04_healthcare,healthcare_alert,audio/task_04_healthcare/hc_alert_11.wav
+hc_alert_12,help me i'm in pain,train,task_04_healthcare,healthcare_alert,audio/task_04_healthcare/hc_alert_12.wav
+hc_alert_13,call doctor mehta,test,task_04_healthcare,healthcare_alert,audio/task_04_healthcare/hc_alert_13.wav
+hc_alert_14,someone has collapsed in the corridor,train,task_04_healthcare,healthcare_alert,audio/task_04_healthcare/hc_alert_14.wav
+hc_alert_15,raise an alarm,train,task_04_healthcare,healthcare_alert,audio/task_04_healthcare/hc_alert_15.wav
+hc_alert_16,inform my family that i'm not feeling well,test,task_04_healthcare,healthcare_alert,audio/task_04_healthcare/hc_alert_16.wav
+hc_alert_17,press the emergency button,train,task_04_healthcare,healthcare_alert,audio/task_04_healthcare/hc_alert_17.wav
+hc_alert_18,get the nurse to room five now,train,task_04_healthcare,healthcare_alert,audio/task_04_healthcare/hc_alert_18.wav
+hc_alert_19,my chest hurts call for help,train,task_04_healthcare,healthcare_alert,audio/task_04_healthcare/hc_alert_19.wav
+hc_alert_20,page the duty doctor,dev,task_04_healthcare,healthcare_alert,audio/task_04_healthcare/hc_alert_20.wav
+hc_measure_01,check my temperature,test,task_04_healthcare,healthcare_measure,audio/task_04_healthcare/hc_measure_01.wav
+hc_measure_02,measure my blood pressure,train,task_04_healthcare,healthcare_measure,audio/task_04_healthcare/hc_measure_02.wav
+hc_measure_03,what is my heart rate,train,task_04_healthcare,healthcare_measure,audio/task_04_healthcare/hc_measure_03.wav
+hc_measure_04,check my oxygen level,train,task_04_healthcare,healthcare_measure,audio/task_04_healthcare/hc_measure_04.wav
+hc_measure_05,take my pulse,dev,task_04_healthcare,healthcare_measure,audio/task_04_healthcare/hc_measure_05.wav
+hc_measure_06,measure the temperature of the patient,train,task_04_healthcare,healthcare_measure,audio/task_04_healthcare/hc_measure_06.wav
+hc_measure_07,can you check my blood sugar,test,task_04_healthcare,healthcare_measure,audio/task_04_healthcare/hc_measure_07.wav
+hc_measure_08,record my weight,train,task_04_healthcare,healthcare_measure,audio/task_04_healthcare/hc_measure_08.wav
+hc_measure_09,monitor my heart rate for ten minutes,train,task_04_healthcare,healthcare_measure,audio/task_04_healthcare/hc_measure_09.wav
+hc_measure_10,check the blood pressure of my grandfather,train,task_04_healthcare,healthcare_measure,audio/task_04_healthcare/hc_measure_10.wav
+hc_measure_11,measure my vitals,train,task_04_healthcare,healthcare_measure,audio/task_04_healthcare/hc_measure_11.wav
+hc_measure_12,how is my oxygen saturation,train,task_04_healthcare,healthcare_measure,audio/task_04_healthcare/hc_measure_12.wav
+hc_measure_13,take my temperature please,train,task_04_healthcare,healthcare_measure,audio/task_04_healthcare/hc_measure_13.wav
+hc_measure_14,do a health check,test,task_04_healthcare,healthcare_measure,audio/task_04_healthcare/hc_measure_14.wav
+hc_measure_15,check the pulse of the patient in bed two,train,task_04_healthcare,healthcare_measure,audio/task_04_healthcare/hc_measure_15.wav
+hc_measure_16,measure my breathing rate,dev,task_04_healthcare,healthcare_measure,audio/task_04_healthcare/hc_measure_16.wav
+hc_measure_17,scan my body temperature,train,task_04_healthcare,healthcare_measure,audio/task_04_healthcare/hc_measure_17.wav
+hc_measure_18,check my sugar level before lunch,dev,task_04_healthcare,healthcare_measure,audio/task_04_healthcare/hc_measure_18.wav
+hc_measure_19,what is my blood pressure reading today,train,task_04_healthcare,healthcare_measure,audio/task_04_healthcare/hc_measure_19.wav
+hc_measure_20,log my heart rate and blood pressure,train,task_04_healthcare,healthcare_measure,audio/task_04_healthcare/hc_measure_20.wav
+hc_checkon_01,check on grandma,dev,task_04_healthcare,healthcare_checkon,audio/task_04_healthcare/hc_checkon_01.wav
+hc_checkon_02,go see if the baby is sleeping,train,task_04_healthcare,healthcare_checkon,audio/task_04_healthcare/hc_checkon_02.wav
+hc_checkon_03,look in on the patient in room twelve,train,task_04_healthcare,healthcare_checkon,audio/task_04_healthcare/hc_checkon_03.wav
+hc_checkon_04,is mom okay,train,task_04_healthcare,healthcare_checkon,audio/task_04_healthcare/hc_checkon_04.wav
+hc_checkon_05,check on my father in the bedroom,train,task_04_healthcare,healthcare_checkon,audio/task_04_healthcare/hc_checkon_05.wav
+hc_checkon_06,go and check if dad is awake,train,task_04_healthcare,healthcare_checkon,audio/task_04_healthcare/hc_checkon_06.wav
+hc_checkon_07,keep an eye on the kids,train,task_04_healthcare,healthcare_checkon,audio/task_04_healthcare/hc_checkon_07.wav
+hc_checkon_08,see how the patient in bed three is doing,test,task_04_healthcare,healthcare_checkon,audio/task_04_healthcare/hc_checkon_08.wav
+hc_checkon_09,watch over grandpa while i'm out,train,task_04_healthcare,healthcare_checkon,audio/task_04_healthcare/hc_checkon_09.wav
+hc_checkon_10,check if mister singh has eaten his lunch,dev,task_04_healthcare,healthcare_checkon,audio/task_04_healthcare/hc_checkon_10.wav
+hc_checkon_11,make a round and check on all the residents,test,task_04_healthcare,healthcare_checkon,audio/task_04_healthcare/hc_checkon_11.wav
+hc_checkon_12,go see what my son is doing,train,task_04_healthcare,healthcare_checkon,audio/task_04_healthcare/hc_checkon_12.wav
+hc_checkon_13,monitor the lady in room nine,train,task_04_healthcare,healthcare_checkon,audio/task_04_healthcare/hc_checkon_13.wav
+hc_checkon_14,check whether grandma took a nap,train,task_04_healthcare,healthcare_checkon,audio/task_04_healthcare/hc_checkon_14.wav
+hc_checkon_15,look after the children in the playroom,train,task_04_healthcare,healthcare_checkon,audio/task_04_healthcare/hc_checkon_15.wav
+hc_checkon_16,visit missus das and ask how she feels,train,task_04_healthcare,healthcare_checkon,audio/task_04_healthcare/hc_checkon_16.wav
+hc_checkon_17,check on the patients in ward one every hour,test,task_04_healthcare,healthcare_checkon,audio/task_04_healthcare/hc_checkon_17.wav
+hc_checkon_18,see if my aunt needs anything,dev,task_04_healthcare,healthcare_checkon,audio/task_04_healthcare/hc_checkon_18.wav
+hc_checkon_19,peek into the nursery and check on the baby,train,task_04_healthcare,healthcare_checkon,audio/task_04_healthcare/hc_checkon_19.wav
+hc_checkon_20,check on my wife tonight,train,task_04_healthcare,healthcare_checkon,audio/task_04_healthcare/hc_checkon_20.wav
+hc_assist_01,help me stand up,train,task_04_healthcare,healthcare_assist,audio/task_04_healthcare/hc_assist_01.wav
+hc_assist_02,help me get out of bed,train,task_04_healthcare,healthcare_assist,audio/task_04_healthcare/hc_assist_02.wav
+hc_assist_03,assist me to walk to the bathroom,train,task_04_healthcare,healthcare_assist,audio/task_04_healthcare/hc_assist_03.wav
+hc_assist_04,support me while i walk,train,task_04_healthcare,healthcare_assist,audio/task_04_healthcare/hc_assist_04.wav
+hc_assist_05,help me sit down,test,task_04_healthcare,healthcare_assist,audio/task_04_healthcare/hc_assist_05.wav
+hc_assist_06,i need help getting up from the chair,train,task_04_healthcare,healthcare_assist,audio/task_04_healthcare/hc_assist_06.wav
+hc_assist_07,help grandpa walk to the dining room,train,task_04_healthcare,healthcare_assist,audio/task_04_healthcare/hc_assist_07.wav
+hc_assist_08,give me your arm to lean on,dev,task_04_healthcare,healthcare_assist,audio/task_04_healthcare/hc_assist_08.wav
+hc_assist_09,help me into the wheelchair,train,task_04_healthcare,healthcare_assist,audio/task_04_healthcare/hc_assist_09.wav
+hc_assist_10,assist the patient to the toilet,train,task_04_healthcare,healthcare_assist,audio/task_04_healthcare/hc_assist_10.wav
+hc_assist_11,help me climb the stairs,dev,task_04_healthcare,healthcare_assist,audio/task_04_healthcare/hc_assist_11.wav
+hc_assist_12,hold me steady,test,task_04_healthcare,healthcare_assist,audio/task_04_healthcare/hc_assist_12.wav
+hc_assist_13,help me lie down on the bed,train,task_04_healthcare,healthcare_assist,audio/task_04_healthcare/hc_assist_13.wav
+hc_assist_14,assist missus khan with her walk,train,task_04_healthcare,healthcare_assist,audio/task_04_healthcare/hc_assist_14.wav
+hc_assist_15,help me get to the sofa,test,task_04_healthcare,healthcare_assist,audio/task_04_healthcare/hc_assist_15.wav
+hc_assist_16,help me move to the armchair,train,task_04_healthcare,healthcare_assist,audio/task_04_healthcare/hc_assist_16.wav
+hc_assist_17,i want to stand please assist me,train,task_04_healthcare,healthcare_assist,audio/task_04_healthcare/hc_assist_17.wav
+hc_assist_18,help the old man get into the car,train,task_04_healthcare,healthcare_assist,audio/task_04_healthcare/hc_assist_18.wav
+hc_assist_19,steady me while i take a shower,dev,task_04_healthcare,healthcare_assist,audio/task_04_healthcare/hc_assist_19.wav
+hc_assist_20,help me turn over in bed,train,task_04_healthcare,healthcare_assist,audio/task_04_healthcare/hc_assist_20.wav
