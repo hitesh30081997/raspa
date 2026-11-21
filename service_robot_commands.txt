@@ -1,0 +1,625 @@
+go to the kitchen
+please move to the reception desk
+head over to room two hundred and four
+can you drive to the main entrance
+navigate to the conference room
+i need you in the living room
+go forward two meters
+move left a little
+turn right and go to the elevator
+drive to the nurses station slowly
+could you make your way to the storage room
+please go to the second floor lobby
+move three steps backward
+go to table number five
+head to the bedroom right now
+travel to the pharmacy counter
+robot go to the laundry room
+i want you to go to the dining hall
+approach the front window
+go straight ahead until you reach the end of the corridor
+can you please go to the lobby
+would you mind moving to the front desk
+could you come to the study room
+i'm in the garage can you come here
+can you move a bit closer to me
+follow me
+please follow me to the office
+come with me
+follow john
+keep following me
+stay behind me
+follow that nurse
+walk with me to the garden
+track me as i walk
+follow the doctor around
+come along with me please
+follow me slowly
+stick close to me
+can you follow mister sharma
+follow me one meter behind
+keep up with me
+trail behind the waiter
+shadow me while i shop
+follow my daughter to the car park
+accompany me
+can you follow me please
+would you mind following me to the parking area
+i'm going to the market can you come with me
+could you walk behind me
+can you follow the nurse to the ward
+stop
+stop right there
+halt
+freeze
+stop moving
+wait here
+please stop now
+hold on stop for a second
+don't move
+stay where you are
+pause your movement
+stop at the door
+emergency stop
+stop following me
+stop in front of the counter
+that's enough stop
+wait for me here
+stand still
+cancel the navigation and stop
+stop near the sofa
+can you stop please
+could you stop right here
+you're going too fast please stop
+would you stop for a moment
+can you stop there i want to talk to you
+go back to your dock
+return to the charging station
+go home
+go charge yourself
+return to base
+head back to the docking station
+your battery is low go recharge
+go back to where you started
+return to your home position
+park yourself at the charger
+you are done you can go back now
+return to your starting point
+go back home and rest
+dock yourself
+return to the home base at six pm
+go back to charging
+time to go home robot
+return to the depot
+head back to base quickly
+go back to your parking spot
+can you go back to your charging dock
+your battery looks low can you charge yourself
+could you please return to base
+i don't need you anymore you can go back to your station
+would you go back to where you came from
+guide me to the restroom
+take me to the cardiology department
+show me the way to the exit
+can you lead me to gate twelve
+escort this visitor to the meeting room
+please show mister lee to his room
+lead the way to the cafeteria
+i'm lost can you guide me to the parking lot
+bring me to the x ray room
+take the guests to the ballroom
+walk me to the lift
+accompany the patient to the waiting area
+how do i get to the library can you take me there
+guide us to table seven
+lead the new employee to the hr office
+escort me to the taxi stand
+show the customer where the fitting rooms are
+please take me to ward three
+navigate me to the information desk
+guide my grandmother to the prayer room
+can you take me to the canteen
+i can't find the washroom can you show me
+could you guide this guest to the reception
+i have an appointment in radiology can you take me there
+would you show me the way to platform two
+pick up the cup
+grab the red box
+pick up the bottle from the table
+lift the bag off the floor
+can you grab that remote
+take the book from the shelf
+pick up two apples
+grasp the mug carefully
+hold the tray
+pick the blue pen up
+get hold of the plate
+pick up the spoon that fell
+pick up the keys
+grab one towel from the rack
+lift that chair
+seize the green cube
+pick up the glass next to the sink
+grab the phone and hold it
+pick up the medicine box
+can you lift the basket
+can you pick up the pen
+could you grab the bowl from the counter
+i dropped my earring can you pick it up
+would you lift the laundry basket
+can you pick up that white cloth
+put the cup on the table
+place the book on the shelf
+set the plate down on the counter
+drop the box in the corner
+put it down
+leave the bag near the door
+put the bottle in the fridge
+place three glasses on the tray
+put the yellow block on top of the red block
+lay the towel on the bed
+put the keys in the drawer
+release it gently
+set this down on the desk
+store the groceries in the pantry
+put the flowers in the vase
+place the remote beside the tv
+put the dishes in the sink
+place the package at the front door
+drop it into the basket
+put the medicine on my nightstand
+can you put the jug on the table
+could you place this on the top shelf
+would you put the milk back in the fridge
+can you leave the parcel at the door
+please could you set the vase on the windowsill
+bring me a glass of water
+get me my glasses
+fetch the newspaper
+can you bring me the remote
+i need my phone please bring it
+bring two towels from the bathroom
+get me a blanket
+go get my slippers from the bedroom
+bring me something to drink
+fetch the charger from the office
+could you get me the black jacket
+bring the menu over here
+i'd like a cup of tea
+get me some tissues
+bring my wallet from the kitchen
+fetch me the first aid kit
+bring the wheelchair here
+go and grab my laptop
+please bring me the salt
+get the mail from the mailbox
+i'm thirsty can you get me some water
+i am hungry can you bring me a snack
+i'm feeling cold can you bring me a sweater
+can you get me my reading glasses
+i have a headache could you bring my medicine
+give this to sarah
+hand the file to the manager
+pass the salt to my wife
+deliver the package to room three hundred and one
+give the keys to david
+take this letter to professor kumar
+hand over the tray to the waiter
+deliver the medicine to the patient in bed four
+give grandpa his newspaper
+pass this to the person next to me
+bring this document to anna in the finance office
+hand me the scissors
+give the toy to the child
+deliver two coffees to table six
+take the food tray to missus gupta
+hand this form to the receptionist
+give the water bottle to the visitor
+pass the tools to the technician
+please deliver this parcel to the security desk
+offer the snacks to the guests
+can you give this file to rahul
+could you hand the keys to my husband
+would you take this plate to the guest at table two
+the chef needs the knife can you give it to him
+can you deliver this report to room four hundred
+open the door
+open the fridge
+can you open the drawer
+open the window in the bedroom
+please open the cabinet
+open this bottle for me
+open the curtains
+unlock and open the front door
+open the lid of the jar
+open the oven door
+pull open the top drawer
+open the gate
+slide open the balcony door
+open the box on the table
+open the microwave
+could you open the wardrobe
+open up the package
+open the dishwasher
+open the door for the delivery man
+open the blinds in the living room
+can you open the door for me
+it's stuffy in here can you open the window
+could you open the fridge please
+someone is knocking can you open the door
+can you open this jar
+vacuum the living room
+start vacuuming
+vacuum the carpet in the bedroom
+clean the floor with the vacuum
+hoover the hallway
+vacuum under the sofa
+can you vacuum the office at nine am
+vacuum the whole house
+please vacuum the rug
+suck up the dust in the corner
+do a quick vacuum of the kitchen
+vacuum the stairs
+run the vacuum in the lobby tomorrow
+vacuum the crumbs under the dining table
+vacuum the guest room tonight
+vacuum the car mats
+clean up the dust on the carpet
+vacuum around the bed
+vacuum room two hundred and five
+vacuum the lounge every morning
+can you vacuum the living room
+there are crumbs all over the carpet can you vacuum
+could you vacuum the bedroom today
+the floor is dusty can you vacuum it
+would you vacuum the car
+mop the kitchen floor
+mop the floor
+please mop the bathroom
+wet clean the hallway
+mop up the spill
+there's water on the floor mop it up
+mop the lobby after lunch
+scrub the tiles in the bathroom
+mop the corridor
+clean the spilled juice on the floor
+mop the dining area
+give the entrance a mop
+mop the marble floor
+mop around the table
+mop the ward at six am
+wash the floor in the restaurant
+mop the balcony
+do the mopping today
+mop the patient room
+mop the muddy footprints in the hall
+can you mop the kitchen please
+i spilled milk on the floor can you mop it
+could you mop the hallway tonight
+the bathroom floor is dirty can you mop it
+would you mop the entrance after the guests leave
+wipe the table
+clean the kitchen counter
+wipe down the windows
+dust the shelves
+wipe the mirror in the bathroom
+clean the whiteboard
+wipe the dining table after dinner
+polish the glass door
+wipe off the coffee stain on the desk
+dust the tv stand
+sanitize the door handles
+wipe the bed rails in ward two
+clean the stove top
+wipe the crumbs off the table
+disinfect the countertops
+wipe the chairs in the waiting room
+clean the sink
+wipe the keyboard
+dust off the bookshelf
+wipe all the tables in the cafe
+can you wipe the table
+the glass table is sticky could you wipe it
+could you dust the window sills
+would you clean the bathroom mirror
+there's juice on the counter can you wipe it
+tidy up the living room
+clean up this mess
+put the toys away
+organize the bookshelf
+make the bed
+tidy the desk
+arrange the shoes in the shoe rack
+declutter the kitchen counter
+fold the clothes
+straighten up the room
+put everything back in its place
+sort the laundry
+clear the table
+arrange the chairs in the meeting room
+tidy up before the guests arrive
+stack the plates neatly
+organize the books on the shelf
+clean up the playroom
+put the cushions back on the sofa
+tidy the reception area by eight am
+can you tidy up the bedroom
+the living room is messy can you clean it up
+could you put away the groceries
+would you arrange the books neatly
+my desk is cluttered can you tidy it
+take out the trash
+empty the trash can
+throw this away
+empty the dustbin in the kitchen
+dispose of the garbage
+throw the wrapper in the bin
+take the recycling out
+empty the waste basket in the office
+put the empty bottles in the recycling
+get rid of these old newspapers
+empty all the bins
+throw out the leftovers
+take the garbage bags to the dumpster
+dispose of the used gloves safely
+empty the trash every evening
+throw away the paper cups
+clear the rubbish from the hallway
+take out the medical waste
+empty the bin in room one hundred and two
+discard the broken glass
+can you take out the trash
+the bin is full can you empty it
+could you throw away these wrappers
+something smells bad can you empty the trash can in the kitchen
+would you take the recycling to the collection point
+remind me to take my pills at eight am
+remind me to take aspirin after lunch
+set a medicine reminder for nine pm
+remind grandma to take her blood pressure tablets
+don't let me forget my insulin before dinner
+remind me about my vitamins every morning
+tell me when it's time for my medicine
+remind me to drink water every two hours
+remind mister rao to take his antibiotics at six pm
+alert me when my next dose is due
+remind me to use my inhaler tonight
+remind me to take two tablets of paracetamol
+remind the patient in room ten about the eye drops
+remind me to take my heart medication tomorrow at seven
+set a reminder for my cough syrup
+give me a reminder for my medication at noon
+remind me to check my sugar before breakfast
+make sure i take my iron supplement daily
+remind my dad to apply the ointment
+notify me at ten pm to take my sleeping pill
+can you remind me to take my tablets at nine am
+could you remind grandpa about his medicine after dinner
+i always forget my vitamins can you remind me every morning
+would you remind me to take my blood thinner tonight
+can you set a reminder for my insulin at seven pm
+call for help
+i've fallen please call someone
+call the nurse
+this is an emergency
+call an ambulance
+alert the doctor immediately
+i feel dizzy get help
+call my son
+notify the caregiver that i need help
+i can't breathe call emergency services
+send an alert to the nurses station
+help me i'm in pain
+call doctor mehta
+someone has collapsed in the corridor
+raise an alarm
+inform my family that i'm not feeling well
+press the emergency button
+get the nurse to room five now
+my chest hurts call for help
+page the duty doctor
+can you call the nurse please
+i am feeling very weak can you get help
+could you inform my daughter that i fell
+i think i'm having a heart attack call an ambulance
+would you alert the security there is a fire
+check my temperature
+measure my blood pressure
+what is my heart rate
+check my oxygen level
+take my pulse
+measure the temperature of the patient
+can you check my blood sugar
+record my weight
+monitor my heart rate for ten minutes
+check the blood pressure of my grandfather
+measure my vitals
+how is my oxygen saturation
+take my temperature please
+do a health check
+check the pulse of the patient in bed two
+measure my breathing rate
+scan my body temperature
+check my sugar level before lunch
+what is my blood pressure reading today
+log my heart rate and blood pressure
+can you check my blood pressure
+i'm feeling feverish can you check my temperature
+could you measure my pulse
+my heart is racing can you check my heart rate
+would you check my blood sugar after breakfast
+check on grandma
+go see if the baby is sleeping
+look in on the patient in room twelve
+is mom okay
+check on my father in the bedroom
+go and check if dad is awake
+keep an eye on the kids
+see how the patient in bed three is doing
+watch over grandpa while i'm out
+check if mister singh has eaten his lunch
+make a round and check on all the residents
+go see what my son is doing
+monitor the lady in room nine
+check whether grandma took a nap
+look after the children in the playroom
+visit missus das and ask how she feels
+check on the patients in ward one every hour
+see if my aunt needs anything
+peek into the nursery and check on the baby
+check on my wife tonight
+can you check on grandma
+could you see if the baby is okay
+i haven't heard from dad in a while can you check on him
+would you look in on the patient in room six
+the kids are very quiet can you check on them
+help me stand up
+help me get out of bed
+assist me to walk to the bathroom
+support me while i walk
+help me sit down
+i need help getting up from the chair
+help grandpa walk to the dining room
+give me your arm to lean on
+help me into the wheelchair
+assist the patient to the toilet
+help me climb the stairs
+hold me steady
+help me lie down on the bed
+assist missus khan with her walk
+help me get to the sofa
+help me move to the armchair
+i want to stand please assist me
+help the old man get into the car
+steady me while i take a shower
+help me turn over in bed
+can you help me stand up
+my legs feel weak can you help me walk
+could you help me get into bed
+would you help grandma sit on the chair
+i'm feeling tired can you help me to the sofa
+switch on the lights
+turn on the fan
+can you turn on the a c
+it's too dark in here can you switch on the lights
+i'm feeling cold can you turn on the heater
+please switch on the tv
+turn on the lamp in the bedroom
+could you switch on the air conditioner in the living room
+it's very hot can you turn on the fan
+switch on the geyser
+can you turn the lights on in the kitchen
+i can't see anything turn on the light
+power on the computer
+would you switch on the coffee machine
+turn on the radio
+start the washing machine
+switch on the porch light at seven pm
+it's getting humid can you turn on the dehumidifier
+i want to watch the news switch on the television
+turn on the exhaust fan in the bathroom
+can you switch on the night lamp
+the room is stuffy turn on the air purifier
+please turn on the heater in room eight
+turn on all the lights
+could you power on the projector in the meeting room
+switch off the lights
+turn off the fan
+i am feeling cold can you switch off the a c
+please turn off the tv
+it's too bright switch off the lights
+can you turn off the heater it's too hot
+switch off the air conditioner in the bedroom
+i'm going to sleep turn off the lamp
+turn off the music system
+could you switch off the geyser
+power off the computer
+turn the fan off in the living room
+nobody is in the kitchen switch off the lights
+stop the washing machine
+i'm freezing turn off the air conditioner
+switch off the coffee machine
+turn off the radio it's too noisy
+would you turn off the porch light
+switch off all the lights at eleven pm
+the tv is too loud just switch it off
+turn off the exhaust fan
+can you switch off the projector
+please power down the printer
+turn off the heater in room eight
+i don't need the fan anymore switch it off
+increase the fan speed
+turn up the volume
+make the room warmer
+i'm still cold can you increase the temperature
+brighten the lights
+increase the temperature by two degrees
+the tv is too quiet turn it up
+make the lights brighter in the study
+can you increase the brightness
+i can't hear the radio turn up the volume
+speed up the fan it's too hot
+raise the heater to maximum
+turn the volume up a little
+could you make the fan faster
+it's too dim in here increase the brightness
+increase the speaker volume
+pump up the volume for the music
+can you raise the temperature in the nursery
+make it louder
+increase the air purifier fan speed
+turn up the heater a notch
+the water is cold increase the geyser temperature
+louder please
+increase the brightness of the screen
+would you turn the lamp up
+decrease the fan speed
+turn down the volume
+make the room cooler
+it's too bright dim the lights
+lower the temperature by one degree
+the tv is too loud turn it down
+slow down the fan i'm feeling cold
+can you reduce the brightness
+lower the volume of the radio
+i'm sweating can you lower the temperature
+dim the lamp in the bedroom
+turn the volume down a bit
+the heater is too hot turn it down
+reduce the fan to low
+quieter please
+the music is too loud can you lower it
+decrease the brightness of the screen
+the speaker is too loud make it softer
+lower the geyser temperature
+reduce the volume by half
+turn down the heater in the living room
+can you dim the lights for the movie
+decrease the temperature in the server room
+make the lights less bright
+would you slow the fan down
+set the a c to twenty four degrees
+set the temperature to twenty two degrees
+put the fan on speed three
+set the volume to fifty percent
+set the lights to thirty percent
+change the heater to twenty five degrees
+set the thermostat to twenty degrees
+i'm feeling cold set the a c to twenty six degrees
+put the lights in night mode
+set the fan to low
+can you set the brightness to maximum
+set the tv volume to ten
+change the a c to fan mode
+set the geyser to forty degrees
+set the air conditioner in the bedroom to twenty three degrees
+adjust the temperature to room temperature
+put the washing machine on quick wash
+set the lights to warm white
+could you set the fan to medium speed
+keep the temperature at twenty four degrees all night
+switch the a c to sleep mode
+set the volume to mute
+set the heater to eco mode at ten pm
+change the brightness of the lamp to half
+would you set the oven to one hundred and eighty degrees
